@@ -1,0 +1,15 @@
+img{
+    width: 25px;
+    
+}
+.flex{
+
+    display: inline-flex;
+    flex-direction: row;
+}
+.spans{
+    text-decoration:none!;
+    color: lightskyblue;
+    margin-top: 3px;
+    margin-left: 4px;
+}

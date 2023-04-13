@@ -30,3 +30,9 @@ body{
     font-family: 'nunito','Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color: white;
 }
+.container{
+    width: 1200px;
+    max-width: 90%;
+    margin: 0 auto;
+    margin-top: 20px;
+}
